@@ -1,0 +1,163 @@
+{
+  "videos": [
+    {
+      "id": "e142",
+      "caption": "React JS",
+      "imageURL": "https://shethink.in/wp-content/uploads/2021/07/react.js-img.png",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "a3d3",
+      "caption": "Smooth Jazz Music",
+      "imageURL": "https://i.ytimg.com/vi/CdnaJPPxQow/maxresdefault.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/pk7DQKgI4gY"
+    },
+    {
+      "id": "1e17",
+      "caption": "Apple Vision Pro - MKBHD",
+      "imageURL": "https://www.zdnet.com/a/img/resize/bdbce326a65f19210433f16d312b5cbc199a22d7/2023/06/06/be722f0a-e954-4ec1-8139-c79a21a734bc/img-8844.jpg?auto=webp&precrop=2048,1150,x0,y42&width=1280",
+      "youtubeLink": "https://www.youtube.com/embed/86Gy035z_KA"
+    },
+    {
+      "id": "4e2a",
+      "caption": "Gemini",
+      "imageURL": "https://s.yimg.com/ny/api/res/1.2/FWWVOW6s2MUFV_yLq9E36g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/5f7be670-943f-11ee-af7f-41b7060d20ba",
+      "youtubeLink": "https://www.youtube.com/embed/cTYRwJSOP8U"
+    },
+    {
+      "id": "dde0",
+      "caption": "Angular",
+      "imageURL": "https://js.devexpress.com/Content/Images/Frameworks/Angular.png",
+      "youtubeLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+    },
+    {
+      "id": "7f70",
+      "caption": "CSS",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+      "youtubeLink": "https://www.youtube.com/embed/1PnVor36_40"
+    },
+    {
+      "id": "2fc1",
+      "caption": "Java Script",
+      "imageURL": "https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2021-12-16/what-can-you-do-with-javascript-thumb.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    }
+  ],
+  "categories": [
+    {
+      "id": "fb46",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "a3d3",
+          "caption": "Smooth Jazz Music",
+          "imageURL": "https://i.ytimg.com/vi/CdnaJPPxQow/maxresdefault.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/pk7DQKgI4gY"
+        }
+      ]
+    },
+    {
+      "id": "b725",
+      "categoryName": "Tech",
+      "allVideos": [
+        {
+          "id": "4e2a",
+          "caption": "Gemini",
+          "imageURL": "https://s.yimg.com/ny/api/res/1.2/FWWVOW6s2MUFV_yLq9E36g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-12/5f7be670-943f-11ee-af7f-41b7060d20ba",
+          "youtubeLink": "https://www.youtube.com/embed/cTYRwJSOP8U"
+        },
+        {
+          "id": "1e17",
+          "caption": "Apple Vision Pro - MKBHD",
+          "imageURL": "https://www.zdnet.com/a/img/resize/bdbce326a65f19210433f16d312b5cbc199a22d7/2023/06/06/be722f0a-e954-4ec1-8139-c79a21a734bc/img-8844.jpg?auto=webp&precrop=2048,1150,x0,y42&width=1280",
+          "youtubeLink": "https://www.youtube.com/embed/86Gy035z_KA"
+        }
+      ]
+    },
+    {
+      "id": "fdf5",
+      "categoryName": "Front End",
+      "allVideos": [
+        {
+          "id": "7f70",
+          "caption": "CSS",
+          "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+          "youtubeLink": "https://www.youtube.com/embed/1PnVor36_40"
+        },
+        {
+          "id": "dde0",
+          "caption": "Angular",
+          "imageURL": "https://js.devexpress.com/Content/Images/Frameworks/Angular.png",
+          "youtubeLink": "https://www.youtube.com/embed/k5E2AVpwsko"
+        },
+        {
+          "id": "2fc1",
+          "caption": "Java Script",
+          "imageURL": "https://www.orientsoftware.com/Themes/OrientSoftwareTheme/Content/Images/blog/2021-12-16/what-can-you-do-with-javascript-thumb.jpg",
+          "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+        }
+      ]
+    },
+    {
+      "id": "97a4",
+      "categoryName": "Sports",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "a44b",
+      "caption": "React JS",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "timeStamp": "02/23/2024, 04:52:47 PM"
+    },
+    {
+      "id": "7d2a",
+      "caption": "Smooth Jazz Music",
+      "youtubeLink": "https://www.youtube.com/embed/pk7DQKgI4gY",
+      "timeStamp": "02/23/2024, 04:53:26 PM"
+    },
+    {
+      "id": "a0f8",
+      "caption": "React JS",
+      "youtubeLink": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "timeStamp": "02/23/2024, 05:01:54 PM"
+    },
+    {
+      "id": "6d15",
+      "caption": "JavaScript",
+      "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "02/23/2024, 05:03:16 PM"
+    },
+    {
+      "id": "e858",
+      "caption": "JavaScript",
+      "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "02/23/2024, 05:19:00 PM"
+    },
+    {
+      "id": "0bb6",
+      "caption": "Smooth Jazz Music",
+      "youtubeLink": "https://www.youtube.com/embed/pk7DQKgI4gY",
+      "timeStamp": "02/23/2024, 05:19:10 PM"
+    },
+    {
+      "id": "e490",
+      "caption": "JavaScript",
+      "youtubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "02/23/2024, 05:19:18 PM"
+    },
+    {
+      "id": "df4b",
+      "caption": "Smooth Jazz Music",
+      "youtubeLink": "https://www.youtube.com/embed/pk7DQKgI4gY",
+      "timeStamp": "02/24/2024, 11:37:50 AM"
+    },
+    {
+      "id": "f64f",
+      "caption": "Apple Vision Pro - MKBHD",
+      "youtubeLink": "https://www.youtube.com/embed/86Gy035z_KA",
+      "timeStamp": "02/27/2024, 12:01:53 PM"
+    }
+  ]
+}
